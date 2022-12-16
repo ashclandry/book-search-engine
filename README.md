@@ -5,12 +5,13 @@
 ## Description
 The purpose of this repository is to take a fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server.
 
+[View Deployed Application on Heroku](https://guarded-springs-49580.herokuapp.com/)
+
 ## Table of Contents 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Technologies Used](#technologies-used)
 - [Final Application](#final-application)
-- [Usage](#usage)
 - [Installation](#installation)
 - [Credits](#credits)
 - [License](#license)
