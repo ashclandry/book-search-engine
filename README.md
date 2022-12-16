@@ -62,10 +62,15 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 * ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ## Final Application
+[View Deployed Application on Heroku](https://guarded-springs-49580.herokuapp.com/)
+
+## Screenshot of Final Application
+![Final Application](./assets/bookSearch.png)
 
 ## Installation 
-
-## Usage
+First clone this repository
+Second install all dependencies `npm install`
+Third deploy application `npm run develop`
 
 ## Credits
 * [NPM Documentation](https://www.npmjs.com/)
